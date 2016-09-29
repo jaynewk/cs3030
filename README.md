@@ -1,0 +1,2 @@
+# cs3030
+CS3030 BASH/PYTHON Assignments
